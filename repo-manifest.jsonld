@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cherrypy/cherrypy-cors/commit/0e1eba19e8b05760c04b3c6893676b3f0d0dabca",
       "git:hexsha": "0e1eba19e8b05760c04b3c6893676b3f0d0dabca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/cherrypy/cherrypy-cors/commit/de2471954a833ec970719caef6c6a47b41819c69",

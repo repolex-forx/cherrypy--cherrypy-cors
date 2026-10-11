@@ -1,0 +1,11 @@
+{
+  "org": "cherrypy",
+  "repo": "cherrypy-cors",
+  "versions": [
+    {
+      "commit": "0e1eba19e8b05760c04b3c6893676b3f0d0dabca",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:57:33.561249+00:00"
+    }
+  ]
+}
